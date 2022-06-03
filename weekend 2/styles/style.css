@@ -1,0 +1,122 @@
+#mainbox{ background-image: url("https://i.pinimg.com/originals/58/cf/13/58cf13b7b0922ce9e9bce5a335ad6d80.jpg") ;
+    background-size:cover;
+height: 2000px;
+width: 100%;
+padding-left: 50px;
+}
+
+.boxA{color: aliceblue;}
+
+h1{font-size: 200px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+h2{font-size: 140px;}
+
+a{font-size: 30px; font-weight: 600; ;
+text-align: right;
+color: aliceblue;}
+a:hover{color: red;}
+
+.homep{font-size: 50px;
+color:rgb(250, 250, 253);
+font-style: italic;
+text-overflow: unset;
+text-transform: capitalize;
+text-decoration: dotted;}
+
+.sign{ text-align: center;
+    border: 2px strong black;
+font-size: 40px;
+margin-top: 200px;
+}
+
+#tbox{ height: 70px; width: 500px;}
+button{ height: 50px;width: 100px;}
+::placeholder{ font-size: 30px;}
+
+h4{ font-size: 50px;}
+
+#main1{background-color: aqua;}
+
+
+.ebox1{background-color: rgb(191, 194, 185);
+background-size: cover;}
+
+.homediv{ text-align: center;}
+.m{ height: 1300px; width: 1500px;
+border-radius: 30px;}
+
+
+.home{ border: 5px dotted black;
+margin-bottom: 100px;margin-left: 300px;
+padding:50px;
+height:1600px ;
+width:2000px ;
+background-color: rgb(243, 232, 219); border-radius: 40px;}
+
+
+h3{ font-size: 50px;}
+p{font-size: 30px;}
+
+
+.big{font-size:30px ;}
+#headb{ font-size:60px;}
+
+Li{list-style: none;}
+#Opage{ background-color: antiquewhite;
+margin-top: 0px;
+padding-top: 20px;}
+
+.form{ border: 20px double white;
+text-align: center;
+font-size: 70px;
+color: aliceblue;
+background-color: rgb(24, 42, 153);
+padding: 20px 60px 60px 90px;
+height: 1600px;
+width: 1200px;
+margin-left: 700px;
+margin-top:250px;
+border-radius: 70px;}
+
+input{ height: 50px;
+width: 500px;}
+
+select{height: 50px;
+width:450PX ;}
+
+h5{ font-size: 100px;
+color:red;}
+
+#fback{ background-image:url("https://th.bing.com/th/id/R.546d04b1c4189517c72bc641b1551dd9?rik=hlEyt2ZwWdbsIA&riu=http%3a%2f%2flivinator.com%2fwp-content%2fuploads%2f2015%2f03%2fhuffingtonpost1.jpg&ehk=9T40Ffe4hNXgTJEUBs0e74fJzcscgpB6453rDoJ%2btD4%3d&risl=&pid=ImgRaw&r=0"); }
+
+#alone{ font-size: 120px;
+margin-top: 50px;
+color:white;}
+
+label{ height: 50px;
+width: 200px;}
+
+.sapa{ border: 2px strong black;
+     background-color: brown;
+    padding:0px 0px 10px 20px ;}
+
+
+
+#fnback{ background-image: url("https://retaildesignblog.net/wp-content/uploads/2015/07/Chumbak-Store-by-4D-Bangalore-India-21-701x720.jpg");}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://i.pinimg.com/originals/58/cf/13/58cf13b7b0922ce9e9bce5a335ad6d80.jpg
